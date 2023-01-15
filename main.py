@@ -1,21 +1,8 @@
-""""
-versiyon 1
+x = 5
+y = 6
+z = 4
+x + y + z
 
-
-
-versiyon 2
-
-
-versiyon 3
-
-
-versiyon 4
-
----
-ege
-
-mert
-
-berker
----
+"""
+bla bla
 """
