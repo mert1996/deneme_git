@@ -20,4 +20,6 @@ versiyon a1.2
 versiyon a1.3 - y teknolojisi
 ---
 
+değişiklik
+
 """
