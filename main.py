@@ -1,25 +1,9 @@
-""""
-versiyon 1
+x = 5
+y = 6
+z = 4
+x + y + z
 
-
-
-versiyon 2
-
-
-versiyon 3
-
-
-versiyon 4
-
-
----
-versiyon a1.1 - güncellendi.
-
-versiyon a1.2
-
-versiyon a1.3 - y teknolojisi
----
-
-değişiklik
+"""
+bla bla
 
 """
