@@ -11,13 +11,11 @@ versiyon 3
 
 versiyon 4
 
-
 ---
-versiyon a1.1 - güncellendi.
+ege
 
-versiyon a1.2
+mert
 
-versiyon a1.3 - y teknolojisi
+berker
 ---
-
 """
